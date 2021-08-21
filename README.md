@@ -1,0 +1,2 @@
+# Survival-Prediction-On-Titanic-Dataset
+A short notebook on basic data preprocessing steps of ML Models. I have described the EDA processes in brief here. As this is a classification problem whether the passengers are going to survive or not, analyzed the parameters that are responsible . Therefore, different models has been used here such as Logistic regression, Random forest Classifier, K Neighbors  Classifier and Decision Tree Classifier. 
